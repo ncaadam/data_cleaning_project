@@ -40,3 +40,5 @@ The set of variables that were estimated from these signals are:
 <br><br>
 The complete list of variables of each feature vector is available in 'features.txt'
 </p>
+<br>
+<b>Each row is a unique subject/activity pair. In the raw data, if there were multiple rows for a specific subject/activity pair, all rows were distilled into one row by taking the average of each data point.</b>

@@ -1,2 +1,2 @@
-data_cleaning_project
+Getting & Cleaning Data - Course Project
 =====================

@@ -7,3 +7,5 @@ This is repo is for the Coursera course "Getting and Cleaning Data", specificall
 2. Extract the files from that zip file wherever you'd like
 3. Download the "run_analysis.R" script from the repo. Save it in the "UCI HAR Dataset" folder from the files you just extracted.
 4. Run the "run_analysis.R" script there. It will save a file called "assignment_data.txt" in the "UCI HAR Dataset" folder. That file is what was asked for in part one of the course project
+
+###To understand the varibale in "assignment_data.txt" please see the CodeBook.md in this repo
